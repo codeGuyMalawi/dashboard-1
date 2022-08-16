@@ -272,7 +272,7 @@
     const data = {
         labels: labels,
         datasets: [{
-            label: "My First dataset",
+            label: "Tota Sales",
             backgroundColor: "#F472B6",
             borderColor: "#F472B6",
             fontSize: "x-large",
